@@ -1,1 +1,2 @@
 # A dynamic PowerBI report created on the Maven Market Dataset
+I roleplayed with ChatGPT where i was an analyst and ChatGPT was an executive. I didnt have a clear view on how to proceed after viewing the dataset. I wanted to do so many analysis at once and knew I wouldnt get any job done at that rate so I got this idea. I gave ChatGPT the datasets and collected the requirements from it. It was a very fun experience :D
